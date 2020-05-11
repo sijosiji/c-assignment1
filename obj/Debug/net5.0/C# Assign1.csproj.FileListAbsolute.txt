@@ -1,0 +1,13 @@
+D:\C# Assign1\bin\Debug\net5.0\C# Assign1.exe
+D:\C# Assign1\bin\Debug\net5.0\C# Assign1.deps.json
+D:\C# Assign1\bin\Debug\net5.0\C# Assign1.runtimeconfig.json
+D:\C# Assign1\bin\Debug\net5.0\C# Assign1.runtimeconfig.dev.json
+D:\C# Assign1\bin\Debug\net5.0\C# Assign1.dll
+D:\C# Assign1\bin\Debug\net5.0\C# Assign1.pdb
+D:\C# Assign1\obj\Debug\net5.0\C# Assign1.csprojAssemblyReference.cache
+D:\C# Assign1\obj\Debug\net5.0\C# Assign1.AssemblyInfoInputs.cache
+D:\C# Assign1\obj\Debug\net5.0\C# Assign1.AssemblyInfo.cs
+D:\C# Assign1\obj\Debug\net5.0\C# Assign1.csproj.CoreCompileInputs.cache
+D:\C# Assign1\obj\Debug\net5.0\C# Assign1.dll
+D:\C# Assign1\obj\Debug\net5.0\C# Assign1.pdb
+D:\C# Assign1\obj\Debug\net5.0\C# Assign1.genruntimeconfig.cache
